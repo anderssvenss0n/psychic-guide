@@ -1,2 +1,2 @@
 # psychic-guide
-tjena tjeeeena
+#Kolla rubriken!#
